@@ -1,0 +1,17 @@
+
+    a
+   / \
+  b   c
+ /|\   \
+d e f   g
+        |
+        h
+
+Write code that can search for a node in the tree above. Return the node if it exists, and None if not. For example, if the code is given "g" and a tree with the structure above, it should return the node named "g".
+
+a) Solve using depth-first search
+
+b) Solve using breadth-first search
+
+
+
